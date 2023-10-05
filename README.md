@@ -2,4 +2,4 @@
 College prediction list
 <br>
 <hr>
-Author : Shailesh Singade
+Author : Shailesh 
